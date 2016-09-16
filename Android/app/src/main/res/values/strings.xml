@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Schnapsi</string>
+    <string name="action_settings">Settings</string>
+    <string name="dilute_Title_1">Ausgangszustand</string>
+    <string name="dilute_Title_2">Zielwert</string>
+    <string name="Volumen">Volumen</string>
+    <string name="Berechnen">Berechnen</string>
+    <string name="Reset">Reset</string>
+    <string name="Konzentration">Konzentration</string>
+    <string name="title_activity_dilute">Dilute</string>
+    <string name="Beschreibung">Das Schnapps-Brenn-Tool</string>
+    <string name="Zitrone">Zitrone</string>
+    <string name="Zucker">Zucker</string>
+    <string name="Alkohol">Alkohol</string>
+    <string name="Wasse">Wasser</string>
+
+</resources>
